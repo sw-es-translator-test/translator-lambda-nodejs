@@ -1,5 +1,5 @@
 {
-  "name": "translator_world",
+  "name": "translator_lambda",
   "version": "1.0.0",
   "description": "translator sample for NodeJS",
   "main": "app.js",
