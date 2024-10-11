@@ -1,6 +1,6 @@
 import { describe, expect, it } from '@jest/globals';
 import { APIGatewayProxyEvent, APIGatewayProxyResult } from 'aws-lambda';
-import { lambdaHandler } from '../../handlers/dictionaryHandler';
+import { lambdaHandler } from '../../handlers/dictionary-handler';
 
 describe('Unit test for app handler', function () {
     it('verifies successful response', async () => {
